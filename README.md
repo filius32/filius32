@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Filius Arthur Lingga
 - 👀 I’m interested in Software Engineering, TinyML, App Development and Web Development
 - 🌱 I’m currently learning computer science - software engineering at Binus University
-- 💞️ I’m looking to collaborate on software projects
+- 💞️ I’m looking to collaborate on software, ML, and web projects
 - 📫 How to reach me:
   Instagram: @filiusarthr
 - 😄 Pronouns: Attack/Helicopter
