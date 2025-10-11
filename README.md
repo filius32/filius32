@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @filius32
-- 👀 I’m interested in Software Engineering and Database
-- 🌱 I’m currently learning computer science - software engineering
-- 💞️ I’m looking to collaborate on software maybe?
+- 👋 Hi, I’m Filius Arthur Lingga
+- 👀 I’m interested in Software Engineering, TinyML, App Development and Web Development
+- 🌱 I’m currently learning computer science - software engineering at Binus University
+- 💞️ I’m looking to collaborate on software projects
 - 📫 How to reach me:
   Instagram: @filiusarthr
 - 😄 Pronouns: Attack/Helicopter
