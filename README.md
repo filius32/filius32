@@ -10,6 +10,7 @@
 
 - 😄 Pronouns: Attack/Helicopter
 - ⚡ Fun fact: I'm awesome
+- All my group projects with my friends are in this organization: https://github.com/Happy-Boys-Corporations
 
 <!---
 filius32/filius32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
