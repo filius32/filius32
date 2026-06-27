@@ -1,16 +1,35 @@
-- Hi, I’m Filius Arthur Lingga
-- I’m interested in Software Engineering, TinyML, App Development and Web Development
-- I’m currently learning Computer Science - Software Engineering at Binus University
-- I’m looking to collaborate on Software (Backend and/or Frontend), Machine Learning, and Web projects 
-- How to reach me:
+# Filius Arthur Lingga | Backend Engineer
 
-  Instagram: @filiusarthr
+Systems-focused Software Engineer specializing in the **.NET/C#** ecosystem, relational data engineering (**PostgreSQL**), and high-availability enterprise infrastructure. 
 
-  Linkedin: www.linkedin.com/in/filius-arthur-b34828296
+My engineering discipline is forged around the **"Engine Room"** of technology—architecting resilient, mission-critical backends, optimizing complex telemetry reporting workflows, and implementing defensive programming patterns for industrial supply chains, logistics, and heavy enterprise systems.
 
-- Pronouns: Attack/Helicopter
-- Fun fact: I'm awesome
-- All my group projects with my friends are in this organization: https://github.com/Happy-Boys-Corporations
+---
+
+### 🛠️ Technical Focus & Competencies
+
+* **Core Frameworks:** C# | .NET Core | ASP.NET Core Web API | Clean Architecture & OOP Patterns
+* **Data Infrastructure:** PostgreSQL (Query Profiling, Index Audits, Performance Optimization)
+* **Concurrency & Execution:** Multi-threaded Execution Paths | High-Throughput Dataset Ingestion
+* **Enterprise Reporting:** Embedded Layout Engines (FastReport) | Parameterized Relational Telemetry
+* **Cloud & Operations:** Azure Ecosystem (Targeting AZ-204) | Git Version Control | Secure System Deployments
+
+---
+
+### 📈 Current Engineering Focus
+
+* **Framework Integrity:** Architecting and maintaining robust component features within established .NET frameworks to stabilize foundational industrial data models.
+* **Concurrency Optimization:** Engineering multi-threaded backend execution paths and concurrent routines to minimize latency and handle massive logistical tracking matrices.
+* **Data Infrastructure & Telemetry:** Optimizing complex database schemas, executing targeted query profiling protocols, and automating paginated telemetry workflows.
+* **Mission-Critical Resilience:** Conducting technical deployment protocols and tracing live runtime errors under highly isolated, strict network field environments.
+* **Academic Foundation:** Advancing deep Systems Engineering principles at BINUS University while actively contributing to live corporate software footprints.
+
+---
+
+### 🌐 Connect with Me
+
+* **Professional Dossier:** [LinkedIn](http://www.linkedin.com/in/filius-arthur-b34828296)
+* **Technical Portfolio:** [GitHub Repositories](https://github.com/filius32)
 
 <!---
 filius32/filius32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
