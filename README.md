@@ -2,7 +2,7 @@
 
 Systems-focused Software Engineer specializing in the **.NET/C#** ecosystem, relational data engineering (**PostgreSQL**), and high-availability enterprise infrastructure. 
 
-My engineering discipline is forged around the **"Engine Room"** of technology—architecting resilient, mission-critical backends, optimizing complex telemetry reporting workflows, and implementing defensive programming patterns for industrial supply chains, logistics, and heavy enterprise systems.
+My engineering discipline is forged around the **"Engine Room"** of technology—architecting resilient, mission-critical backends, optimizing concurrent calculation pipelines, and maintaining defensive systems architectures for heavy industry, mining operations, and large-scale logistics.
 
 ---
 
@@ -29,7 +29,7 @@ My engineering discipline is forged around the **"Engine Room"** of technology�
 ### 🌐 Connect with Me
 
 * **Professional Dossier:** [LinkedIn](http://www.linkedin.com/in/filius-arthur-b34828296)
-* **Technical Portfolio:** [GitHub Repositories](https://github.com/filius32)
+* **Technical Portfolio:** [GitHub Repositories](https://github.com/filius32?tab=repositories)
 
 <!---
 filius32/filius32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
