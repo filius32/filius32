@@ -1,4 +1,4 @@
-# Filius Arthur Lingga | Backend Engineer
+# Filius Arthur Lingga | NET Full Stack Developer
 
 Systems-focused Software Engineer specializing in the **.NET/C#** ecosystem, relational data engineering (**PostgreSQL**), and high-availability enterprise infrastructure. 
 
